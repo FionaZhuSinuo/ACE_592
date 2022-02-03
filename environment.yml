@@ -1,9 +1,11 @@
-name: ace592
+name: test00
 channels:
   - conda-forge
   - defaults
 dependencies:
+  - wordcloud=1.8.1
   - emoji=1.6.1
+  - lxml=4.6.3
   - requests=2.24.0
   - pandas=1.1.3
   - beautifulsoup4=4.9.3
